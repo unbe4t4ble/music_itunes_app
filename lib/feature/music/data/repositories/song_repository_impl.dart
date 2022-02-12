@@ -3,7 +3,7 @@ import 'package:music_app/core/data/base_repository.dart';
 import 'package:music_app/core/errors/exceptions.dart';
 import 'package:music_app/core/errors/failures.dart';
 import 'package:music_app/feature/music/data/datasources/song_data_source.dart';
-import 'package:music_app/feature/music/data/model/atm_model.dart';
+import 'package:music_app/feature/music/data/model/song_model.dart';
 import 'package:music_app/feature/music/domain/repositories/song_repository.dart';
 
 class SongRepositoryImpl extends BaseRepositoryImpl implements SongRepository {

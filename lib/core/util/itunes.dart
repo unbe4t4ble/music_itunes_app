@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:music_app/feature/music/data/model/atm_model.dart';
+import 'package:music_app/feature/music/data/model/song_model.dart';
 
 class ITunes extends ChangeNotifier{
 

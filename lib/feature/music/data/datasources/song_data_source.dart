@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:music_app/core/errors/exceptions.dart';
 import 'package:music_app/core/util/url.dart';
 import 'package:http/http.dart' as http;
-import 'package:music_app/feature/music/data/model/atm_model.dart';
+import 'package:music_app/feature/music/data/model/song_model.dart';
 
 abstract class SongDataSource {
   Future<List<SongModel>> getSong(String str);

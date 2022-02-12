@@ -2,7 +2,7 @@ import 'package:dartz/dartz.dart';
 import 'package:equatable/equatable.dart';
 import 'package:music_app/core/errors/failures.dart';
 import 'package:music_app/core/usecases/usecase.dart';
-import 'package:music_app/feature/music/data/model/atm_model.dart';
+import 'package:music_app/feature/music/data/model/song_model.dart';
 import 'package:music_app/feature/music/domain/entities/song.dart';
 import 'package:music_app/feature/music/domain/repositories/song_repository.dart';
 
