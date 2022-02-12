@@ -1,6 +1,6 @@
 import 'package:equatable/equatable.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:music_app/feature/music/data/model/atm_model.dart';
+import 'package:music_app/feature/music/data/model/song_model.dart';
 import 'package:music_app/feature/music/domain/usecases/get_song.dart';
 
 part 'song_event.dart';

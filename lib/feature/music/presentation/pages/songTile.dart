@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:music_app/core/util/itunes.dart';
-import 'package:music_app/feature/music/data/model/atm_model.dart';
+import 'package:music_app/feature/music/data/model/song_model.dart';
 import 'package:music_app/injector_container.dart';
 
 class SongTileWidget extends StatelessWidget{
